@@ -50,8 +50,7 @@ test:
 about:
   home: https://github.com/benedekrozemberczki/karateclub
   license: GPL-3.0-only
-  # Check status of https://github.com/benedekrozemberczki/karateclub/pull/39 for inclusion of license file in source distribtion
-  license_file: LICENSE.txt
+  license_file: LICENSE
   summary: A general purpose library for community detection, network embedding, and graph mining research.
   doc_url: https://karateclub.readthedocs.io/en/latest/index.html
   dev_url: https://github.com/benedekrozemberczki/karateclub
