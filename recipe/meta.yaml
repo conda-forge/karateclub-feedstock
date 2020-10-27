@@ -1,5 +1,5 @@
 {% set name = "karateclub" %}
-{% set version = "1.0.15" %}
+{% set version = "1.0.17" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 83885564bd7ff0e27143bf5a2d35617f15befedac92f194077d54fc492f82483
+  sha256: 133c8da8fb1fbd9816990465151f92f392c216410b87f4b2ddf053e6255fcd42
 
 build:
   number: 0

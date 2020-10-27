@@ -5,11 +5,13 @@ Home: https://github.com/benedekrozemberczki/karateclub
 
 Package license: GPL-3.0-only
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/karateclub-feedstock/blob/master/LICENSE.txt)
 
 Summary: A general purpose library for community detection, network embedding, and graph mining research.
 
+Development: https://github.com/benedekrozemberczki/karateclub
 
+Documentation: https://karateclub.readthedocs.io/en/latest/index.html
 
 Current build status
 ====================
