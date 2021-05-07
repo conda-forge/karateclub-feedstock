@@ -18,19 +18,18 @@ requirements:
   host:
     - pytest-runner
     - pip
-    - python
+    - python >=3.6
   run:
     - gensim
     - networkx
     - numpy
     - pandas
     - pygsp
-    - python
+    - python >=3.6
     - python-louvain
     - scikit-learn
     - scipy
     - six
-    - tqdm
 
 test:
   imports:
