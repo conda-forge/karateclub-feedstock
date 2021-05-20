@@ -20,7 +20,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - gensim
+    - gensim >=4.0
     - networkx
     - numpy
     - pandas
